@@ -1,0 +1,23 @@
+{
+  "name": "js-todo-list",
+  "version": "1.0.0",
+  "description": "In this project, I learned to create a local Storage, create DOM elements with Vanilla JS.  I used some basic methods like: classList.add, createElement, appendChild, remove, toggle, forEach, getItem, setItem, parse, push, splice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcavusoglu/js-todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcavusoglu/js-todo-list/issues"
+  },
+  "homepage": "https://github.com/dcavusoglu/js-todo-list#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
