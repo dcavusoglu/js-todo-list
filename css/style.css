@@ -28,10 +28,11 @@ header, form {
 
 /* Form ve button için ortak özellikler  */
 form input, form button {
-  padding: 0.5rem;
-  font-size: 2rem;
+  padding: 0.4rem;
+  font-size: 1.7rem;
   border: none;
   background: #F0F0EB;
+  font-family: 'Yatra One', cursive;
 }
 
 /* yaknızca form button için özellikler */
